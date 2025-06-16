@@ -1,3 +1,3 @@
-# Student Portfolio MERN Website
+# Full MERN Student Portfolio
 
-This is a MERN stack project for managing and displaying student portfolios with admin login.
+Admin login, portfolio sections, dark theme UI, mobile responsive.
